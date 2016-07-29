@@ -7,6 +7,9 @@
     <author email="qualquerv@diegomartin.apache.org" href="http://cordova.io">
         Diego Martin Mancini
     </author>
+
+    <access origin="http://cozinhapp.sergiolopes.org" />
+
     <preference name="Orientation" value="portrait" />
     <preference name="Fullscreen" value="true" />
     <preference name="DisallowOverscroll" value="true" />
